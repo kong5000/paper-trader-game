@@ -1,0 +1,16 @@
+{
+  "name": "paper-trader-firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "firebase-tools": "^9.11.0",
+    "mongoose": "^5.12.11"
+  }
+}
